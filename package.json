@@ -1,0 +1,26 @@
+{
+  "name": "electron-babylonjs-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron and PixiJS application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/thbell/electron-pixijs-quick-start",
+  "keywords": [
+    "Electron",
+    "PixiJS",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "tebell",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "1.7.5"
+  },
+  "dependencies": {
+    "pixi.js": "^4.5.4"
+  }
+}
