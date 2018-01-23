@@ -18,9 +18,9 @@
   "author": "tebell",
   "license": "MIT",
   "devDependencies": {
-    "electron": "1.7.5"
+    "electron": "1.7.11"
   },
   "dependencies": {
-    "pixi.js": "^4.5.4"
+    "pixi.js": "^4.7.0"
   }
 }
